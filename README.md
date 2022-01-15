@@ -1,19 +1,18 @@
-Olá, eu sou o Paulo Henrique, desenvolvendor e entusiasta linux.
+<img align="right" src="Code.png" max-width="400px" width="400px" align="right">
+
+<h3 align="left"> Ei! É bom te ver. <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"></h3>
+
 ##
 
-- 🔭 Hoje trabalho com NOC em técnologia da informação
-- 🌱 Estudando linguagem python full stack e roteadores Huawei NE 8000
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+Bem vindo a minha página!  
+Sou Paulo, desenvolvedor, entusiasta linux e de cibersegurança.
 
-<div align="center">
-  <a href="https://github.com/paulo-hj">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=paulo-hj&layout=compact&langs_count=7&theme=dark"/>
-</div>
+##
+
+- 💻 Hoje trabalho com NOC em técnologia da informação.
+- 🌱 Estudando linguagem python full stack e roteadores Huawei NE8000.
+
+##
 
   <div style="display: inline_block"><br>
   <img align="center" alt="Paulo-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
@@ -25,6 +24,8 @@ Olá, eu sou o Paulo Henrique, desenvolvendor e entusiasta linux.
   <img align="center" alt="Paulo-Vscode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
   <img align="center" alt="Paulo-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Paulo-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Paulo-Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+  <img align="center" alt="Paulo-Cloud" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-plain.svg" />
 </div>
  
 ##
