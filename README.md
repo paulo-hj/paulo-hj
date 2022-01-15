@@ -9,7 +9,7 @@ Sou Paulo, desenvolvedor, entusiasta linux e de cibersegurança.
 
 ##
 
-- 💻 Hoje trabalho em NOC | Técnologia da informação.
+- 💻 Atualmente trabalhando em NOC | Técnologia da informação.
 - 📖 Estudando linguagem python full stack e roteadores Huawei NE8000.
 
 ##
