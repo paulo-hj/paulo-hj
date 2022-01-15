@@ -1,6 +1,6 @@
 <img align="right" src="Code.png" max-width="400px" width="400px" align="right">
 
-<h3 align="left"> Ei! É bom te ver. <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"></h3>
+<h3 align="left"> É bom te ver. <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"></h3>
 
 ##
 
@@ -9,8 +9,8 @@ Sou Paulo, desenvolvedor, entusiasta linux e de cibersegurança.
 
 ##
 
-- 💻 Hoje trabalho com NOC em técnologia da informação.
-- 🌱 Estudando linguagem python full stack e roteadores Huawei NE8000.
+- 💻 Hoje trabalho em NOC | Técnologia da informação.
+- 📖 Estudando linguagem python full stack e roteadores Huawei NE8000.
 
 ##
 
