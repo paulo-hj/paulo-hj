@@ -31,6 +31,9 @@ Sou Paulo, Analista de Redes com paixão por Linux e cibersegurança.
   <img align="center" alt="Paulo-AWS" height="30" width="40" src="https://www.svgrepo.com/show/448266/aws.svg" />
   <img align="center" alt="Paulo-Azure" height="30" width="40" src="https://www.svgrepo.com/show/331302/azure-v2.svg" />
   <img align="center" alt="Paulo-Cisco" height="40" width="50" src="https://www.svgrepo.com/show/303323/cisco-2-logo.svg" />
+  <img align="center" alt="Paulo-Zabbix" height="50" width="60" src="https://upload.wikimedia.org/wikipedia/commons/5/5d/Zabbix_logo_square.svg" />
+  <img align="center" alt="Paulo-Grafana" height="30" width="40" src="https://www.svgrepo.com/show/448228/grafana.svg" />
+  <img align="center" alt="Paulo-Prometheus" height="30" width="40" src="https://www.svgrepo.com/show/354219/prometheus.svg" />
 </div>
  
 ##
