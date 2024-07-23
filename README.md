@@ -25,6 +25,7 @@ Sou Paulo, Analista de Redes com paixão por Linux e cibersegurança.
   <img align="center" alt="Paulo-Debian" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/debian/debian-original.svg" />
   <img align="center" alt="Paulo-Arch" height="30" width="40" src="https://www.svgrepo.com/show/349296/arch-linux.svg" />
   <img align="center" alt="Paulo-Mysql" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
+  <img align="center" alt="Paulo-Postgresql" height="30" width="40" src="https://www.svgrepo.com/show/354200/postgresql.svg" />
   <img align="center" alt="Paulo-Vscode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
   <img align="center" alt="Paulo-Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
   <img align="center" alt="Paulo-Cloud" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-plain.svg" />
