@@ -1,6 +1,6 @@
 <img align="right" src="Code.png" max-width="400px" width="400px" align="right">
 
-<h3 align="left"> É bom te ver. <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"></h3>
+<h3 align="left"> É bom te ver. <img align="center" alt="Zolli-Tux" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" /></h3>
 
 ##
 
