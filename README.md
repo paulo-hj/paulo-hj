@@ -35,11 +35,10 @@ Sou Paulo, Analista de Redes com paixão por Linux e cibersegurança.
  
 ##
 
-<div> 
+<div>
+  <a href="https://henrique.hgbsoft.com.br" target="_blank">
+      <img src="https://img.shields.io/badge/Blog-808080?style=for-the-badge" alt="Blog" style="width: 120px;">
+  </a>
   <a href="https://www.linkedin.com/in/paulo-henrique-oj/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href = "mailto:paulo.junior.ph@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://henrique.hgbsoft.com.br" target="_blank">
-      <img src="https://img.shields.io/badge/Blog-808080?style=for-the-badge" alt="Blog">
-  </a>
-
 </div>
