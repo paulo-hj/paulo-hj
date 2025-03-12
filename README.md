@@ -19,8 +19,7 @@ Sou Paulo, Analista de Redes com paixão por Linux e cibersegurança.
 
   <div style="display: inline_block"><br>
   <img align="center" alt="Paulo-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Paulo-Java" height="60" width="50" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcShOMo5aBd1vxqvF19G-txz8vUIjmsn-BbsIA&s">
-  <img align="center" alt="Paulo-Django" height="30" width="40" src="https://www.svgrepo.com/show/353657/django-icon.svg" />
+  <img align="center" alt="Paulo-Ansible" height="30" width="40" src="https://www.svgrepo.com/show/373429/ansible.svg" />
   <img align="center" alt="Paulo-Docker" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
   <img align="center" alt="Paulo-Debian" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/debian/debian-original.svg" />
   <img align="center" alt="Paulo-Arch" height="30" width="40" src="https://www.svgrepo.com/show/349296/arch-linux.svg" />
